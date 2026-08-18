@@ -392,7 +392,7 @@ The model detects the majority of fraudulent transactions while producing only 2
 
 Clone the repository:
 
-git clone <your-repository-url>
+git clone https://github.com/arsalansaqib25/Decodelab_fraudulant_transaction_detection
 
 Move into the project directory:
 
